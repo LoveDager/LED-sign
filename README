@@ -1,0 +1,2 @@
+Startup script here: sudo nano /etc/rc.local 
+That starts ~/led-sign/sign-startup.sh
